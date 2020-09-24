@@ -17,11 +17,11 @@ Também foi implementado a navegação com rotas utilizando o Navigator, e uma B
 
 <p float="left">
   <img src="screenshots/screenshot1.png" width="160" />
-  <img src="screenshots/screenshot2.png" width="160" /> 
+  <img src="screenshots/screenshot2.png" width="160" />
   <img src="screenshots/screenshot3.png" width="160" />
   <img src="screenshots/screenshot4.png" width="160" />
   <img src="screenshots/screenshot5.png" width="160" />
-  <img src="screenshots/screenshot6.png" width="160" /> 
+  <img src="screenshots/screenshot6.png" width="160" />
   <img src="screenshots/screenshot7.png" width="160" />
   <img src="screenshots/screenshot8.png" width="160" />
 </p>
